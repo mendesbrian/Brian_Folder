@@ -17,3 +17,4 @@ where cancelled is false
 group by 1 ;
 
 -- here's a note for the second commit
+-- second note to test the brian_test branch
