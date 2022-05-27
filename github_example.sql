@@ -15,3 +15,5 @@ where cancelled is false
         where product_group = 'AS21 RUGGABLE X JONATHAN ADLER'
     )
 group by 1 ;
+
+-- here's a note for the second commit
